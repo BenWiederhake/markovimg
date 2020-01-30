@@ -9,8 +9,8 @@ import sys
 # Used only by run().
 # Feel free to replace any function by your own; possibly by `generate.sample_colpoint = lambda ...`
 CONTEXT = dict(
-    w=400,
-    h=300,
+    w=1920,
+    h=1080,
     prob_start=0.0,
     prob_end=1.0,
     img_type='L',

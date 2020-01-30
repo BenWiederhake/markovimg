@@ -2,6 +2,8 @@
 
 > Makes pretty images from a very small Markov-chain.
 
+![A high-reoslution rendering](output_1580385544.png)
+
 ## Table of Contents
 
 - [Install](#install)
